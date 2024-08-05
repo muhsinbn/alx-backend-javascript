@@ -18,5 +18,5 @@ To get started with the project, follow these steps:
 * Clone the repository:
 ### git clone https://@github.com/muhsinbn/alx-backend-javascript.git
 cd alx-backend-javascript
-### Install the dependencies:
-npm install
+* Install the dependencies:
+### npm install
