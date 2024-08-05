@@ -15,9 +15,9 @@ This project aims to provide a robust backend system using JavaScript and Node.j
 ## Installation
 To get started with the project, follow these steps:
 
-**1.Clone the repository:
+**Clone the repository:
 git clone https://@github.com/muhsinbn/alx-backend-javascript.git
 cd alx-backend-javascript
 
-**2.Install the dependencies:
+**Install the dependencies:
 npm install
