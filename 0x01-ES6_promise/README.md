@@ -20,7 +20,13 @@ The project contains the following files:
 - `taskNext.js`: Demonstrates the use of `let` for variable declaration.
 - `README.md`: This file, providing an overview of the project.
 
-## Getting Started
+## Resources
+
+[Promise]
+[JavaScript Promise: An introduction]
+[Await]
+[Async]
+[Throw / Try]
 
 ### Prerequisites
 
@@ -32,11 +38,3 @@ To run the code in this repository, you need to have Node.js installed on your m
 
 ```bash
 git clone https://@github.co/muhsinbn/0x01-ES6_promise.git
-
-## Resources
-
-[Promise]
-[JavaScript Promise: An introduction]
-[Await]
-[Async]
-[Throw / Try]
