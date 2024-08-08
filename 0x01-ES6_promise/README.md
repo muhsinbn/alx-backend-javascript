@@ -33,3 +33,10 @@ To run the code in this repository, you need to have Node.js installed on your m
 ```bash
 git clone https://@github.co/muhsinbn/0x01-ES6_promise.git
 
+## Resources
+
+- [Promise]
+- [JavaScript Promise: An introduction]
+- [Await]
+- [Async]
+- [Throw / Try]
